@@ -1,0 +1,12 @@
+
+@media screen and (max-width:768px){
+.mor{
+    display: flex;
+    flex-direction: column;
+}
+.lior{
+    display: flex;
+    flex-direction: column;
+}
+}
+    
