@@ -94,7 +94,7 @@ button{
 @media screen and (max-width: 768px){button{
     font-size: 3vw;
     width:20vw ;height: 50px; 
-    display: flex: ;
+    display: flex ;
     flex-direction: row;
 }
 }
