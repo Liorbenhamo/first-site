@@ -1,6 +1,6 @@
 body{
     background-color: rgb(227, 203, 171);
-    background-image:url("") ;
+   
     background-repeat: no-repeat;
     background-size:100% 988px ;
 }
@@ -41,7 +41,7 @@ button{
     margin-left:370px;
 }
 #gold{
-    background-image:url("") ;
+
     background-repeat: no-repeat;
     background-size:100% 1500px ;
 }
