@@ -1,6 +1,6 @@
 body{
     background-color: rgb(227, 203, 171);
-    background-image:url(https://www.kurtdiamonds.co.il/wp-content/uploads/2019/11/DSC_4459_L-scaled.jpg) ;
+    background-image:url("https://www.kurtdiamonds.co.il/wp-content/uploads/2019/11/DSC_4459_L-scaled.jpg") ;
     background-repeat: no-repeat;
     background-size:100% 988px ;
 }
@@ -41,7 +41,7 @@ button{
     margin-left:370px;
 }
 #gold{
-    background-image:url(https://www.limordesign.co.il/wp-content/uploads/GRP7595.jpg) ;
+    background-image:url("https://www.limordesign.co.il/wp-content/uploads/GRP7595.jpg") ;
     background-repeat: no-repeat;
     background-size:100% 1500px ;
 }
